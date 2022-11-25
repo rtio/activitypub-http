@@ -1,8 +1,8 @@
 {
   "require-dev": {
-    "phpunit/phpunit": "<default>"
+    "phpunit/phpunit": "*"
   },
   "require": {
-    "rtio/activitypub-core": "<default>"
+    "rtio/activitypub-core": "*"
   }
 }
